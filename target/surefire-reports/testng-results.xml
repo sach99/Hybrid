@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T06:54:55 IST" name="Suite" finished-at="2024-04-02T06:55:42 IST" duration-ms="47987">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T06:54:55 IST" name="Test" finished-at="2024-04-02T06:55:42 IST" duration-ms="47987">
+      <class name="com.quafox.tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:54:55 IST" name="setup" finished-at="2024-04-02T06:55:05 IST" duration-ms="9890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:1, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:05 IST" name="verifyLoginWithValidCredentials" finished-at="2024-04-02T06:55:07 IST" duration-ms="1903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:07 IST" name="tearDown" finished-at="2024-04-02T06:55:08 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:08 IST" name="setup" finished-at="2024-04-02T06:55:14 IST" duration-ms="6244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:2, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:14 IST" name="verifyLoginWithInvalidCredentials" finished-at="2024-04-02T06:55:26 IST" duration-ms="11722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:26 IST" name="tearDown" finished-at="2024-04-02T06:55:26 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:26 IST" name="setup" finished-at="2024-04-02T06:55:32 IST" duration-ms="6022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidUsername()[pri:3, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:32 IST" name="verifyLoginWithInvalidUsername" finished-at="2024-04-02T06:55:33 IST" duration-ms="1345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:33 IST" name="tearDown" finished-at="2024-04-02T06:55:34 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:34 IST" name="setup" finished-at="2024-04-02T06:55:41 IST" duration-ms="6735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidPassword()[pri:4, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:41 IST" name="verifyLoginWithInvalidPassword" finished-at="2024-04-02T06:55:42 IST" duration-ms="1506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.quafox.tests.LoginTest@783a467b]" started-at="2024-04-02T06:55:42 IST" name="tearDown" finished-at="2024-04-02T06:55:42 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.quafox.tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
